@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Add PR Summary step to Ultralytics Actions (#7675)
