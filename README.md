@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
