@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
