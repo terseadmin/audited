@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
