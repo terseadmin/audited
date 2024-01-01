@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+Update Roboflow segmentation Docs pages (#8094)
