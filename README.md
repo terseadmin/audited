@@ -1,1 +1,1 @@
-example Google Colab
+Fixed RTDETR GFLOPs bug (#7309)
