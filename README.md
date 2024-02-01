@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Replacing Images for torchscript.md (#8596)
