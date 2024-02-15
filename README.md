@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
