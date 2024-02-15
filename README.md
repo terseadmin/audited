@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Move Explorer tests to scheduled CI (#8305)
