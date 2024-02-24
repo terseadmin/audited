@@ -1,1 +1,1 @@
-ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
