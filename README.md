@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
