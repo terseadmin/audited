@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Add Weights & Biases Docs integrations page (#7199)
