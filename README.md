@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add dota8.yaml and O tests (#7394)
