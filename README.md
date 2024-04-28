@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
