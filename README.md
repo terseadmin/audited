@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fix cmake requirements for ARM64 (#8589)
