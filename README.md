@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Update YOLOv3 and YOLOv5 YAMLs (#7574)
