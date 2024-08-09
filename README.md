@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Resize angle, count, and stage on keypoint number change (#7598)
