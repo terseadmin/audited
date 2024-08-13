@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
