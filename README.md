@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Update Colab notebook for YOLOv8.1 (#8660)
