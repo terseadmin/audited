@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Update Docs Home and Neural Magic pages (#7243)
