@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
