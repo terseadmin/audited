@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add quantization support to TensorFlow.js converter (#7008)
