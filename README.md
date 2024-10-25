@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
